@@ -53,7 +53,6 @@ In this new fragment we can edit the data of the product. If we want to save or 
 The name field is controlled
 
 ![image 16](https://github.com/s71x/NotA/blob/main/images/23.png)
-
 ![image 16](https://github.com/s71x/NotA/blob/main/images/24.png)
 
 This is a dialog fragment to set the expired date of the product.
