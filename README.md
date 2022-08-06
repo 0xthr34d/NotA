@@ -48,6 +48,8 @@ In this new fragment we can edit the data of the product. If we want to save or 
 
 ![image 9](https://github.com/s71x/NotA/blob/main/images/8.png)
 
+![image 9](https://github.com/s71x/NotA/blob/main/images/9.png)
+
 The name field is controlled
 
 ![image 16](https://github.com/s71x/NotA/blob/main/images/23.png)
