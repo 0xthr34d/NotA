@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/selecct_storage_title"
+        android:layout_width="match_parent"
+        android:text="@string/selectStorageTitle"
+        android:layout_margin="@dimen/titleSelectStorageMargin"
+        android:textSize="@dimen/titleSelectStorageSize"
+        android:textStyle="bold"
+        android:textColor="@color/titleTextColor"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/select_storage_dialog_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_recycler_view"
+        />
+
+</LinearLayout>

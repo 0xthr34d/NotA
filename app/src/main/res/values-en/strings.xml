@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotA</string>
+    <string name="storageListToolbarTitle">Storages</string>
+    <string name="addstorageFabContentDescription">addStorage</string>
+    <string name="typeStorage">Type:</string>
+    <string name="nameStorage">Name:</string>
+    <string name="nProds">Products:</string>
+    <string name="nTimedOut">Expired:</string>
+    <string name="deletedStorage">Storage deleted</string>
+    <string name="undoStorage">Undo</string>
+    <string name="dateProd">Date:</string>
+    <string name="daysProdLapsed">Expired days:</string>
+    <string name="daysProdRemaining">Remaining days:</string>
+    <string name="amountProd">Amount</string>
+    <string name="deletedProd">Product deleted</string>
+    <string name="undoProd">Undo</string>
+    <string name="movedProds">Products moved correctly</string>
+    <string name="selectStorageTitle">Select an Storage</string>
+    <string name="titleDetailProd">Product</string>
+    <string name="nameProdDetail">Product\'s name</string>
+    <string name="descriptionProdDetail">Description</string>
+    <string name="dateProdDetail">Date</string>
+    <string name="amountProdDetail">Amount:</string>
+    <string name="errorNameProdDetail">Error, input a name</string>
+    <string name="titleDetailStorage">Details storage</string>
+    <string name="errorNameStorageDetail">Error, input a name</string>
+    <string name="nameStorageDetail">Storage\'s name</string>
+    <string name="type0">Fridge</string>
+    <string name="type1">Freezer</string>
+    <string name="type2">Pantry</string>
+    <string name="type3">Other</string>
+    <string name="move_storage">Move</string>
+    <string name="saveDetailProd">Save</string>
+    <string name="saveDetailStorage">Save</string>
+    <string name="typeView">View</string>
+    <string name="edit">Edit</string>
+    <plurals name="prodsToolbar">
+        <item quantity="one">%d product</item>
+        <item quantity="other">%d products</item>
+    </plurals>
+</resources>

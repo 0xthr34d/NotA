@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fabMarginEnd">30dp</dimen>
+    <dimen name="fabMarginBottom">50dp</dimen>
+    <dimen name="titleSelectStorageMargin">20dp</dimen>
+    <dimen name="titleSelectStorageSize">20sp</dimen>
+    <dimen name="cardViewElevation">2dp</dimen>
+    <dimen name="card_view_corner_radius">3dp</dimen>
+    <dimen name="card_view_margin">10dp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotA</string>
+    <string name="storageListToolbarTitle">Almacenes</string>
+    <string name="addstorageFabContentDescription">addStorage</string>
+    <string name="typeStorage">Tipo:</string>
+    <string name="nameStorage">Nombre:</string>
+    <string name="nProds">Productos:</string>
+    <string name="nTimedOut">Caducados:</string>
+    <string name="deletedStorage">Almacen eliminado</string>
+    <string name="undoStorage">Deshacer</string>
+    <string name="dateProd">Fecha:</string>
+    <string name="daysProdLapsed">Días Caducados</string>
+    <string name="daysProdRemaining">Días Restantes</string>
+    <string name="amountProd">Cantidad</string>
+    <string name="deletedProd">Producto eliminado</string>
+    <string name="undoProd">Deshacer</string>
+    <string name="movedProds">Productos movidos correctamente</string>
+    <string name="selectStorageTitle">Selecciona un almacen</string>
+    <string name="titleDetailProd">Producto</string>
+    <string name="nameProdDetail">Nombre del producto</string>
+    <string name="descriptionProdDetail">Descripción</string>
+    <string name="dateProdDetail">Fecha</string>
+    <string name="amountProdDetail">Cantidad:</string>
+    <string name="errorNameProdDetail">Error, introduce un nombre</string>
+    <string name="titleDetailStorage">Detalles almacén</string>
+    <string name="errorNameStorageDetail">Error, introduce un nombre</string>
+    <string name="nameStorageDetail">Nombre del almacen</string>
+    <string name="type0">Frigorífico</string>
+    <string name="type1">Congelador</string>
+    <string name="type2">Despensa</string>
+    <string name="type3">Otro</string>
+    <string name="move_storage">Mover</string>
+    <string name="saveDetailProd">Guardar</string>
+    <string name="saveDetailStorage">Guardar</string>
+    <string name="typeView">Vista</string>
+    <string name="edit">Editar</string>
+    <plurals name="prodsToolbar">
+        <item quantity="one">%d producto</item>
+        <item quantity="other">%d productos</item>
+    </plurals>
+</resources>
